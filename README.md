@@ -5,4 +5,6 @@ Finally this is a project that uses Long Short Term Memory (LSTM) networks to re
 
 After training for 200 epochs ,I gave the model a sample melody as a initiation based on which the model generated its own music.
 
+This is the model output
+
 https://soundcloud.com/charan-reddy-17168179/piano-melody-generated-by-my-deep-learning-model
